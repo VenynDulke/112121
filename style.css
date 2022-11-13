@@ -32,7 +32,7 @@ a{
      text-indent:0
 }
 [name=BLA] a{
-     border:1px solid #ffb1b7
+     border:1px solid #000080
 }
 [name=BLA] a{
      display:inline-block
@@ -68,7 +68,7 @@ a{
      text-align:center
 }
 [name=BLA] a{
-     text-shadow:0px 1px 0px #ffb1b7
+     text-shadow:0px 1px 0px #000080
 }
 [name=BLA] a:hover {
      background-color:#2E2E2E
@@ -147,7 +147,7 @@ span:hover{
     color:transparent
 }
 span:hover{
-    text-shadow:0px 0px 0px #20badb
+    text-shadow:0px 0px 0px #00FF00
 }
 a:hover{
     ffb1b7
